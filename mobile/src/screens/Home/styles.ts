@@ -7,14 +7,14 @@ export const styles = StyleSheet.create({
   },
 
   logo: {
-    width: 202,
-    height: 100,
-    marginTop: 62,
-    marginBottom: 32
+    width: 214,
+    height: 120,
+    marginTop: 74,
+    marginBottom: 48
   },
 
   contentList: {
-    paddingLeft: 20,
-    paddingRight: 32
+    paddingLeft: 32,
+    paddingRight: 64
   }
 });
